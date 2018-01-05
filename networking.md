@@ -1,8 +1,6 @@
 #Networking en Docker
 
- En esta entrada veremos el funcionamiento básico del networking en Docker y haremos algunas pruebas para ver el comportamiento de cada tipo de red y sus opciones mas comunes. 
-
-[TOC]
+En esta entrada veremos el funcionamiento básico del networking en Docker y haremos algunas pruebas para ver el comportamiento de cada tipo de red y sus opciones mas comunes. 
 
 ##Default Networks
 Cuando instalamos Docker, este crea en el host en cuestion tres redes de forma automatica. Estas son `bridge`, `host` y `none`.
